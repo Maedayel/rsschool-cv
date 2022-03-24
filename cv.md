@@ -2,7 +2,8 @@
 ## Frontend developer
 
 ***
-![avatar](https://github.com/Maedayel/rsschool-cv/blob/gh-pages/Avatar.jpg)
+
+![Avatar](https://user-images.githubusercontent.com/97052518/160000170-784ecc74-2c9a-4a9a-958e-5266e81ce0f3.jpg)
 
 ### Contact info
 * Email - maedayel@gmail.com
@@ -62,6 +63,7 @@ return comboObj;
 
 * Completed HTML and CSS courses almost 3 years ago
 * I am taking the course "Full JavaScript + React course - from scratch to the result" on the Udemy platform
+
 
 ***
 
