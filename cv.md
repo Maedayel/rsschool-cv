@@ -2,7 +2,7 @@
 ## Frontend developer
 
 ***
-![avatar](https://github.com/Maedayel/rsschool-cv/blob/avatar/Avatar.jpg)
+![avatar](https://github.com/Maedayel/rsschool-cv/blob/gh-pages/Avatar.jpg)
 
 ### Contact info
 * Email - maedayel@gmail.com
